@@ -9,8 +9,7 @@ PHP 5.5 ou superior
 ## __Guia de Instalação__
 1. Clone esta repositório em seu projeto
 ```
-github
+https://github.com/jonathanrodrigues12/Lib_API_Asaas
 ```
 2 . insira seu token assas em [config.php](functions/config.php)
-
 3. Altere a variavel $url de sua preferência em  [config.php](functions/config.php) 
